@@ -1,0 +1,7 @@
+a = int(input("First number : "))
+b = int(input("Second number : "))
+print("Before swapping : ")
+print("a : {} b : {}".format(a, b))
+(a, b) = (b, a)
+print("After swapping : ")
+print("a : {} b : {}".format(a, b))
