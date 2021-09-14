@@ -1,2 +1,2 @@
 # CollegeWork
-For CollegeWorks
+For College Lab Works
